@@ -21,7 +21,9 @@ This repo is where I collect small projects while learning to code. Each one liv
 
 | Project | Language | Description | Status |
 |---|---|---|---|
-| [`to-do-list`](./to-do-list) | Python | Command-line to-do list app | 🚧 In progress |
+| [`ToDoList.py`](./ToDoList.py) | Python | Command-line to-do list app | ✅ Done |
+| [`NumberGuesser.py`](./NumberGuesser.py) | Python | Number-guessing game | ✅ Done |
+| [`index.html`](./index.html) | HTML | Personal logbook page | ✅ Done |
 
 > *Table updates as new projects get added — check each folder's own README for details.*
 
@@ -47,7 +49,7 @@ This repo is where I collect small projects while learning to code. Each one liv
 ## 📈 Roadmap
 
 - [x] Set up repo
-- [ ] To-do list app
+- [x] To-do list app
 - [ ] Quiz game
 - [ ] Personal portfolio site
 - [ ] Budget tracker
