@@ -24,6 +24,7 @@ This repo is where I collect small projects while learning to code. Each one liv
 | [`ToDoList.py`](./ToDoList.py) | Python | Command-line to-do list app | ✅ Done |
 | [`NumberGuesser.py`](./NumberGuesser.py) | Python | Number-guessing game | ✅ Done |
 | [`index.html`](./index.html) | HTML | Personal logbook page | ✅ Done |
+| [`outreach/`](./outreach) | Automation | Daily CV emails to local businesses | 🛠️ Setting up |
 
 > *Table updates as new projects get added — check each folder's own README for details.*
 
