@@ -1,0 +1,2 @@
+# One entry per line: an email address, a domain (e.g. example.co.uk), or a business name.
+# The daily outreach routine skips anything listed here.
