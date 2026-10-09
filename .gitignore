@@ -1,0 +1,8 @@
+# Local data created by ToDoList.py (may contain private tasks)
+/tasks.json
+
+# Python bytecode and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
