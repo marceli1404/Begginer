@@ -34,9 +34,10 @@ class ToDoList:
             json.dump(self.tasks, f, indent=2, ensure_ascii=False)
 
     def add(self, text):
-        if text:
-            self.tasks.append({"text": text.strip(), "done": False})
-            self.save()
+        if not isinstance(text, str) or not text.strip():
+            return
+        self.tasks.append({"text": text.strip(), "done": False})
+        self.save()
 
     def toggle(self, index):
         if 0 <= index < len(self.tasks):
